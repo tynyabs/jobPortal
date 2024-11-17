@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e69169a1-0139-4bbb-a120-9fc3b7f29dd8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oySE3fYHUgk6JKzj76WrU7ZQZn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JobApplicationServiceApplication.executor": "Run",
+    "Application.JobServiceApplication.executor": "Run",
+    "Application.job service.executor": "Run",
+    "Application.user service.executor": "Run",
+    "Maven.job-service [clean,install].executor": "Run",
+    "Maven.job-service [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/tinot/Desktop/jobPortal/backend/job-service/src/main/java/com/jobapp/job_service",
+    "last_opened_file_path": "C:/Users/tinot/Desktop/jobPortal/backend/user-service/src/main/java/com/jobapp/user_service/DTO",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tinot\Desktop\jobPortal\backend\user-service\src\main\java\com\jobapp\user_service\DTO" />
+      <recent name="C:\Users\tinot\Desktop\jobPortal\backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tinot\Desktop\jobPortal\backend\jobapplication-service\src\main\java\com\jobapp\jobApplication_service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jobapp.user_service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.user service">
+    <configuration name="apply service" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.jobapp.apply_service.ApplyServiceApplication" />
+      <module name="apply-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job service" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="JAVA_HOME" value="C:\Program Files\Java\jdk-17" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.jobapp.job_service.JobServiceApplication" />
+      <module name="job-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user service" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.jobapp.user_service.UserServiceApplication" />
+      <module name="user-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.job service" />
+      <item itemvalue="Application.apply service" />
+      <item itemvalue="Application.user service" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69169a1-0139-4bbb-a120-9fc3b7f29dd8" name="Changes" comment="" />
+      <created>1731840208023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731840208023</updated>
+    </task>
+    <servers />
+  </component>
+</project>
